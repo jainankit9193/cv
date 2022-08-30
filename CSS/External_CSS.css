@@ -1,0 +1,22 @@
+body{
+  background-color:#EAF6F6;
+}
+  p {
+    background-color:midnightblue;
+    color:white;
+  }
+  hr{
+    border-style:dotted none none;
+    border-color:midnightblue;
+    width:10%;
+    border-width:5px;
+  }
+  h1:hover{
+    background-color: gold;
+  }
+
+/*Class Selector*/
+.header3{
+  background-color: midnightblue;
+  color: white;
+}
